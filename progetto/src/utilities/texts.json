@@ -1,0 +1,93 @@
+[
+  {"navbarHamburger":"/images/cell.svg",
+    "headerImg": "/images/hero.jpg",
+    "iphoneMockup":"/images/iphone-mockup2.png",
+    "navbarLogo":"/images/egg-fill.svg",
+    "grafico":"/images/grafico.jpg",
+    "title": "THE ONLY DONE FOR YOU OPTION PICKER",
+    "subtitle": "Get trade alerts. Cancel anytime.",
+    "preform": "Enter your email to create or restart your membership",
+    "Navbar": ["Features", "Pricing", "Login", "Sign up"],
+    "homesvg":"/images/homepage.svg",
+    "contactsvg":"/images/customer-care.svg",
+    "pricingsvg":"/images/dollar-sign.svg",
+    "servicesvg":"/images/e-invoice.svg",
+
+    "schema": [
+      {
+        "title": "Why us?",
+        "subtitle": "Ex-traders building the best option AI algorithm, which makes large profits in minutes a day. We are ex-quants with combined 37 years of experience. ",
+        "image": "/images/team.svg",
+        "sphere": "/images/sphere2.png"
+      },
+      {
+        "title": "Competitive AI",
+        "subtitle": " A.I. backed algorithms. Our HotScore technology aggregates data from multiple sources to quickly and clearly show you the best options to trade all DONE FOR YOU.",
+        "image": "/images/artificial-intelligence-ai.svg",
+        "sphere": "/images/sphere2.png"
+      },
+      {
+        "title": "Speed is our core",
+        "subtitle": "Speed means everything in trading. never miss another opportunity with all the best option trades delivered daily to your inbox at market open.",
+        "image": "/images/",
+        "sphere": "/images/sphere2.png"
+      },
+      {
+        "title": "Chain scanning",
+        "subtitle": "We scan the entire options chain so you don’t have to, researching each possible trade ahead of time and recommend you the best plays",
+        "image": "/images/scan.svg",
+        "sphere": "/images/sphere2.png"
+      },
+      {
+        "title": "Built for everyone",
+        "subtitle": "our tools are easy enough to use starting on day 1 and give you the competitive knowledge learned from years of trial & error.",
+        "sphere": "/images/sphere2.png",
+        "image":"/images/incresing.svg"
+      },
+      {
+        "title": "Perfect timing",
+        "subtitle": "another info just for make a good design, i just wanna some holidays. go on, there is nothing to see here anymore.",
+        "image": "/images/increasing-users.svg",
+        "sphere": "/images/sphere2.png"
+      }
+    ],
+    "description":"/images/description.jpg",
+    "list": [
+      { "li": "CALL CREDIT SPREAD" },
+      { "li": "COVERED CALL" },
+      { "li": "DEBIT CALL SPREAD" },
+      { "li": "DEBIT PUT SPREAD" },
+      { "li": "BUY CALL" },
+      { "li": "SELL PUT" },
+      { "li": "BUY PUT" },
+      { "li": "PUT CREDIT SPREAD" }
+    ],
+    "texts": {
+      "text1": "Daily recommended strike prices and proprietary indicators for",
+      "text2": "8 STRATEGIES"
+    },
+    "pricingLeft": {
+      "title": "Only $67 /month",
+      "subtitle": "SAVE $0 ANNUALLY",
+      "l1": "Daily options recommendations",
+      "l2": "Suggested strike prices for each symbol",
+      "l3": "8 recommended options strategies",
+      "l4": "Grading system for better options trading",
+      "l5": "Proprietary indicators"
+    },
+    "pricingRight": {
+      "title": "Only $670 /year",
+      "subtitle": "SAVE $134 ANNUALLY",
+      "l1": "Daily options recommendations",
+      "l2": "Suggested strike prices for each symbol",
+      "l3": "8 recommended options strategies",
+      "l4": "Grading system for better options trading",
+      "l5": "Proprietary indicators"
+    },
+    "footer": {
+      "subtitle": "LMAO Corporation",
+      "description": "Disclaimer: Please be aware that trading stocks, futures, stock options, and futures options involves a substantial risk of loss and is not suitable for all investors. Past performance is not necessarily indicative of future results. INFORMATION IS FOR GENERAL EDUCATIONAL AND RESEARCH PURPOSES AND SHOULD NOT BE CONSTRUED AS INDIVIDUAL INVESTMENT ADVICE. More info here",
+      "footerLinks": ["TERMS OF SERVICE", "DISCLAIMER", "PRIVACY POLICY"]
+    }
+  }
+]
